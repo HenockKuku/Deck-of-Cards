@@ -1,0 +1,6 @@
+c:\users\owner\documents\visual studio 2017\Projects\Deck_of_Cards\Deck_of_Cards\bin\Debug\Deck_of_Cards.exe.config
+c:\users\owner\documents\visual studio 2017\Projects\Deck_of_Cards\Deck_of_Cards\bin\Debug\Deck_of_Cards.exe
+c:\users\owner\documents\visual studio 2017\Projects\Deck_of_Cards\Deck_of_Cards\bin\Debug\Deck_of_Cards.pdb
+c:\users\owner\documents\visual studio 2017\Projects\Deck_of_Cards\Deck_of_Cards\obj\Debug\Deck_of_Cards.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2017\Projects\Deck_of_Cards\Deck_of_Cards\obj\Debug\Deck_of_Cards.exe
+c:\users\owner\documents\visual studio 2017\Projects\Deck_of_Cards\Deck_of_Cards\obj\Debug\Deck_of_Cards.pdb
